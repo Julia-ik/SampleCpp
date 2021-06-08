@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622629832 source:c:\lilu\cpp\контра\1\main.cpp
+	<iostream>
+	<conio.h>
+	"windows.h"
+	<thread>
+	<algorithm>
+	<list>
+
